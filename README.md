@@ -4,4 +4,4 @@ A [Vue.js](https://vuejs.org/) application using [three.js](https://threejs.org/
 
 Check it out [here](https://matrix-digital-rain.web.app).
 
-![](demo.gif);
+![](demo.gif)
